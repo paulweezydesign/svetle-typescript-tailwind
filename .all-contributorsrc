@@ -1,0 +1,33 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "hchiam",
+      "name": "Howard Chiam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18131787?v=4",
+      "profile": "http://hchiam.com/?can-you-find-all-the-hidden-features?",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "avimshah",
+      "name": "Avi Shah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25670207?v=4",
+      "profile": "https://github.com/avimshah",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "app-template-s2t2",
+  "projectOwner": "LBrian",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
